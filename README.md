@@ -1,2 +1,2 @@
 # GigaG
-online store website
+An Online Store for product keys and activation keys
